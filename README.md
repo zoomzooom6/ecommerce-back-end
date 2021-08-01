@@ -8,7 +8,19 @@ The goal of this challenge is to utilize Sequelize to interact between a working
 * [Final Results](#final-results)
 
 ## Criteria
-
+* Connect to a database using Sequelize
+    * Providing database name, MySQL username, and MySQL password
+* Schema and seed commands fills development database and test data
+* When server is up and running, Sequelize model connects to MySQL database
+* Routes available to interact with using Insomnia
+    * GET Route
+        * Categories
+        * Products
+        * Tags
+    * POST Route
+    * PUT Route
+    * DELETE Route
+    * Data provided by each route is displayed in formatted JSON
 
 ### Tools Used
 * MySQL2
