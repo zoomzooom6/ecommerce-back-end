@@ -33,16 +33,19 @@ Designed and written by Tony Huang
 
 ## Final Results
 GET Routes for all categories
-<img src='' alt='GET route for all categories'/>
+<img src='/assets/images/GetAllCategories.jpg' alt='GET route for all categories'/>
 
 GET Routes for single category
-<img src='' alt='GET route for single category'/>
+<img src='/assets/images/GetOneCategories.jpg' alt='GET route for single category'/>
 
 POST Routes for categories
-<img src='' alt='POST route for categories'/>
+<img src='/assets/images/PostCategories.jpg' alt='POST route for categories'/>
 
 PUT Routes for categories
-<img src='' alt='PUT route for categories'/>
+<img src='/assets/images/PutCategories.jpg' alt='PUT route for categories'/>
 
 DELETE Routes for categories
-<img src='' alt='DELETE route for categories'/>
+<img src='/assets/images/DeleteCategories.jpg' alt='DELETE route for categories'/>
+
+Live Video Link
+<a href='https://youtu.be/YTtE-TiBd3w'>Watch here</a>
